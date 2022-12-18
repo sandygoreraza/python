@@ -1,11 +1,14 @@
 <br>
 <b>Level of difficulty</b>
+<br>
+<br>
 Medium
 <br>
-Objectives
+<b>Objectives</b>
+<br>
 Familiarize the student with:
 <br>
-using the while loop;
+using the <b>while loop</b>;
 converting verbally defined loops into actual Python code.
 <br>
 <b>Scenario</b>
