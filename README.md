@@ -1,5 +1,5 @@
 <br>
-Level of difficulty
+<b>Level of difficulty</b>
 Medium
 <br>
 Objectives
@@ -7,7 +7,8 @@ Familiarize the student with:
 <br>
 using the while loop;
 converting verbally defined loops into actual Python code.
-Scenario
+<br>
+<b>Scenario</b>
 In 1937, a German mathematician named Lothar Collatz formulated an intriguing hypothesis (it still remains unproven) which can be described in the following way:
 
 take any non-negative and non-zero integer number and name it c0;
