@@ -1,10 +1,10 @@
-
+<br>
 Level of difficulty
 Medium
-
+<br>
 Objectives
 Familiarize the student with:
-
+<br>
 using the while loop;
 converting verbally defined loops into actual Python code.
 Scenario
@@ -15,22 +15,22 @@ if it's even, evaluate a new c0 as c0 ÷ 2;
 otherwise, if it's odd, evaluate a new c0 as 3 × c0 + 1;
 if c0 ≠ 1, skip to point 2.
 The hypothesis says that regardless of the initial value of c0, it will always go to 1.
-
+<br>
 Of course, it's an extremely complex task to use a computer in order to prove the hypothesis for any natural number (it may even require artificial intelligence), but you can use Python to check some individual numbers. Maybe you'll even find the one which would disprove the hypothesis.
-
-
+<br>
+<br>
 Write a program which reads one natural number and executes the above steps as long as c0 remains different from 1. We also want you to count the steps needed to achieve the goal. Your code should output all the intermediate values of c0, too.
-
+<br>
 Hint: the most important part of the problem is how to transform Collatz's idea into a while loop - this is the key to success.
-
+<br>
 Test your code using the data we've provided.
-
+<br>
 Test Data
-
+<br>
 Sample input: 15
-
+<br>
 Expected output:
-
+<br>
 46
 23
 70
@@ -48,20 +48,24 @@ Expected output:
 4
 2
 1
+<br>
 steps = 17
+<br>
 Sample input: 16
-
+<br>
 Expected output:
 
 8
 4
 2
 1
+<br>
 steps = 4
+<br>
 Sample input: 1023
 
 Expected output:
-
+<br>
 3070
 1535
 4606
@@ -124,4 +128,5 @@ Expected output:
 4
 2
 1
+<br>
 steps = 62
