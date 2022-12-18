@@ -29,13 +29,17 @@ Hint: the most important part of the problem is how to transform Collatz's idea 
 <br>
 Test your code using the data we've provided.
 <br>
+<br>
 Test Data
 <br>
+<br>
 Sample input: 15
+<br>
 <br>
 Expected output:
 <br>
 46
+
 23
 70
 35
@@ -58,7 +62,7 @@ steps = 17
 Sample input: 16
 <br>
 Expected output:
-
+<br>
 8
 4
 2
@@ -67,7 +71,8 @@ Expected output:
 steps = 4
 <br>
 Sample input: 1023
-
+<br>
+<br>
 Expected output:
 <br>
 3070
