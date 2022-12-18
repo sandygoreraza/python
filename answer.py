@@ -1,4 +1,3 @@
-import time
 number = int(input())
 
 if(number < 1):
